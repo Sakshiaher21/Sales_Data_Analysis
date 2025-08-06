@@ -1,8 +1,8 @@
-#Sales Data Analysis Project 
+# Sales Data Analysis Project 
 
 This repository contains a Tableau-based sales data analysis project completed  as part of a virtual  internship. The project includes detailed analysis , visualizations, a presentation, and supporting materials.
 
-##Objectives 
+## Objectives 
 
 To analyze international sales data, 
 1)Identify Revenue Trends
@@ -30,7 +30,7 @@ and provide actionable business insights for improving performance and targeting
 4)Data Visualization
   - Tool: Tableau for visualization and insights generation.
 
-##Key Areas of Analysis
+## Key Areas of Analysis
 
 1. Monthly Revenue Trends
   - Seasonal patterns indicate peak months . 
@@ -54,5 +54,6 @@ and provide actionable business insights for improving performance and targeting
    - Expansion opportunities identified.
 
      ![Product Demand by Country](Images/a4.png)
+
 
 
