@@ -36,24 +36,25 @@ and provide actionable business insights for improving performance and targeting
   - Seasonal patterns indicate peak months . 
   - Focus on promotions and inventory during these periods.
 
-    ![Monthly Revenue Trends](Images/a1.png)
+    ![Monthly Revenue Trends](a1.png)
 
 2. Top Revenue-Generating Countries
    - Excluding UK, Germany and France are key markets.
    - Targeted marketing campaigns recommended.
 
-     ![Top Revenue-Generating Countries](Images/a2.png)
+     ![Top Revenue-Generating Countries](a2.png)
 
 3. Top Customers by Revenue
    - Focus on retaining high-value customers with loyalty programs.
 
-       ![Top Customers by Revenue](Images/a3.png)
+       ![Top Customers by Revenue](a3.png)
 
 4. Product Demand by Country
    - High demand in regions like Australia and the Netherlands.
    - Expansion opportunities identified.
 
-     ![Product Demand by Country](Images/a4.png)
+     ![Product Demand by Country](a4.png)
+
 
 
 
