@@ -61,9 +61,14 @@ and provide actionable business insights for improving performance and targeting
 
      ![Product Demand by Country](a4.png)
 
+## Tech Stack 
+  - Tableu
+  - Excel
+
 
    
      
+
 
 
 
