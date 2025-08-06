@@ -43,6 +43,7 @@ and provide actionable business insights for improving performance and targeting
    - Targeted marketing campaigns recommended.
 
      ![Top Revenue-Generating Countries](a2.png)
+     
 
 3. Top Customers by Revenue
    - Focus on retaining high-value customers with loyalty programs.
@@ -54,6 +55,11 @@ and provide actionable business insights for improving performance and targeting
    - Expansion opportunities identified.
 
      ![Product Demand by Country](a4.png)
+
+
+     ![Dashboard](Dashboard.png)
+     
+
 
 
 
