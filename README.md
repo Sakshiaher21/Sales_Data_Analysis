@@ -1,5 +1,8 @@
 # Sales Data Analysis Project 
 
+      ![Dashboard](Dashboard.png)
+           fig.Dashboard 
+
 This repository contains a Tableau-based sales data analysis project completed  as part of a virtual  internship. The project includes detailed analysis , visualizations, a presentation, and supporting materials.
 
 ## Objectives 
@@ -57,8 +60,9 @@ and provide actionable business insights for improving performance and targeting
      ![Product Demand by Country](a4.png)
 
 
-     ![Dashboard](Dashboard.png)
+   
      
+
 
 
 
