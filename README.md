@@ -8,18 +8,7 @@ This repository contains a Tableau-based sales data analysis project completed  
 fig.Dashboard 
 
 ## Objectives 
-
- -To analyze international sales data
- 
-1)Identify Revenue Trends
-  -Analyze monthly sales patterns to highlight seasonal trends and peaks.
-2)Focus on High-Performing Markets
-  -Determine the top revenue-generating countries (excluding the UK) and assess their potential for further investment.
-3)Explore Expansion Opportunities.
-  -Identify regions with strong product demand, excluding the UK, to guide market expansion plans.
-4)Retain Key Customers
-  -Pinpoint high-value customers to develop strategies that ensure loyalty and sustained revenue.
-and provide actionable business insights for improving performance and targeting growth opportunities.
+To analyze international sales data and provide actionable insights for improving business performance, targeting growth opportunities, and retaining key customers.
 
 
 ## Data Preparation
@@ -69,6 +58,7 @@ and provide actionable business insights for improving performance and targeting
 
    
      
+
 
 
 
