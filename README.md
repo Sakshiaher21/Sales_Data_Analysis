@@ -10,14 +10,14 @@ fig.Dashboard
 ## Objectives 
 
 To analyze international sales data
--Identify Revenue Trends
-  Analyze monthly sales patterns to highlight seasonal trends and peaks.
--Focus on High-Performing Markets
- Determine the top revenue-generating countries (excluding the UK) and assess their potential for further investment.
--Explore Expansion Opportunities.
-Identify regions with strong product demand, excluding the UK, to guide market expansion plans.
--Retain Key Customers
-Pinpoint high-value customers to develop strategies that ensure loyalty and sustained revenue.
+1)Identify Revenue Trends
+ -Analyze monthly sales patterns to highlight seasonal trends and peaks.
+2)Focus on High-Performing Markets
+ -Determine the top revenue-generating countries (excluding the UK) and assess their potential for further investment.
+3)Explore Expansion Opportunities.
+ -Identify regions with strong product demand, excluding the UK, to guide market expansion plans.
+4)Retain Key Customers
+ -Pinpoint high-value customers to develop strategies that ensure loyalty and sustained revenue.
 and provide actionable business insights for improving performance and targeting growth opportunities.
 
 
@@ -68,6 +68,7 @@ and provide actionable business insights for improving performance and targeting
 
    
      
+
 
 
 
